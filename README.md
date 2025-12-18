@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="images/example0.png" width="200" alt="Nice image over here...">
+	<img src="images/example0.png" width="640" alt="Nice image over here...">
 </p>
 
 A simple OpenGL colored triangle based on examples of go-gl demo.
